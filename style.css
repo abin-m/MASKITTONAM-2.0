@@ -7,7 +7,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: #f1f1f1;
 }
-h3{font-size: 15px;}
+h3{font-size: 18px;}
 .topnav {
     overflow: hidden;
     background-color: #075E54;
@@ -52,7 +52,9 @@ h3{font-size: 15px;}
 .content {
     color: #ddd;
 }
-
+hr{
+    color: #1c1d20;
+}
 .responsive {
     width: 100%;
     height: auto;
